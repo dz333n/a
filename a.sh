@@ -9,7 +9,7 @@ do
 	
 	echo "a" >> a
 	
-	git add .
-	git commit -m "a"
+	git add . > /dev/null
+	git commit -m "a" > /dev/null
 done
 

@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "Welcome to a 2.0"
+echo "Press Ctrl+C to exit"
 
 while true
 do
